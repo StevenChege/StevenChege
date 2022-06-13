@@ -1,11 +1,39 @@
-# 💫About Me :
-Software developer currently working with Flutter
+# 🙋‍♂️ About Me : 
+Software developer currently working with Flutter:
 
-## 🌐Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hynes_steve) 
+- 🔭 I’m currently working on **[Safari Retreats](https://safariretreats.travel)** application
+
+- 🌱 I’m currently learning **Blockchain Development.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://stevenchege.github.io/flutter_developer_portfolio)**
+
+- 📫 How to reach me **stephenchege.muiruri@gmail.com**
+
+- ⚡ Fun fact **I read alot, travel and go to the GYM very often.**
+ 
 
 # 💻Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+<p align="left"> 
+    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/> </a> 
+    <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/dart.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/doodle/48/undefined/figma.png"/> </a>
+</p>
+
+
+
+
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=StevenChege&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StevenChege&theme=highcontrast&hide_border=false)<br/>
@@ -15,10 +43,18 @@ Software developer currently working with Flutter
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://twitter.com/hynes_steve"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+
 [![](https://visitcount.itsvg.in/api?id=StevenChege&icon=8&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SteveMuiruri) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub followers](https://img.shields.io/github/followers/StevenChege?style=social)](https://github.com/StevenChege)
   
