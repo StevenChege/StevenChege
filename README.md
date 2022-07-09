@@ -54,7 +54,8 @@ Software developer currently working with Flutter:
 
 ## ❤ Views and Followers
 
-[![](https://visitcount.itsvg.in/api?id=StevenChege&icon=8&color=8)](https://visitcount.itsvg.in)
+![](https://profile-counter.glitch.me/StevenChege/count.svg)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/StevenChege?style=social)](https://github.com/StevenChege)
   
